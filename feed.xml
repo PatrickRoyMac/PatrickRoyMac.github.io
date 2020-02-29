@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-29T16:54:47+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PatrickRoyMac.github.io/</title><subtitle>Hello, I drink too much caffeine and stay up to late for someone that is meant too be an &quot;adult&quot;.</subtitle><entry><title type="html">About me!</title><link href="http://localhost:4000/patrick/update/2020/02/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="About me!" /><published>2020-02-28T20:37:04+10:00</published><updated>2020-02-28T20:37:04+10:00</updated><id>http://localhost:4000/patrick/update/2020/02/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/patrick/update/2020/02/28/welcome-to-jekyll.html">&lt;h1 id=&quot;patrick-maccarthy---update&quot;&gt;Patrick MacCarthy - Update&lt;/h1&gt;
+&lt;p&gt;I am a passionate young tech enthusiast that is pushing myself to excel in an already competitive industry. I have a passion for all things cloud and completing projects which re-imagine how we deploy / build / manage different services. I believe that the ‘Infrastructure as code’ model is the future and push myself to automate everything I need to do more than once. Working as a team and bouncing ideas of each other is how I press forward and am also up for those technically challenging conversation.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-i-currently-do&quot;&gt;What do I currently do?&lt;/h2&gt;
+
+&lt;h3 id=&quot;primary-role&quot;&gt;Primary role:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Maintain the current running state of the SaaS Business within a suitable SLO / SLA&lt;/li&gt;
+  &lt;li&gt;Developing the CI/CD pipeline from R&amp;amp;D to Cloud deploying regular software updates to the SaaS Customers&lt;/li&gt;
+  &lt;li&gt;Management of small team with the mantra of DevOps building new services for the business to consume&lt;/li&gt;
+  &lt;li&gt;Architect new technology, building primarily on AWS - Expertise in automation tools such as Teamcity, hooked in with Cloudformation to provide build pipelines.&lt;/li&gt;
+  &lt;li&gt;Management of &amp;gt;1000 EC2 instances across multiple VPC’s using both Linux and Windows for Operating systems with the theory of Cattle not Pets.&lt;/li&gt;
+  &lt;li&gt;Using the ITIL Framework as a guide for best practises when developing a stable environment&lt;/li&gt;
+  &lt;li&gt;Maintaining the Sprint project management to build, test, deploy new products&lt;/li&gt;
+  &lt;li&gt;Build, deploy and management of database technologies such as RDS,     Dynamo and sql - Currently learning postgres&lt;/li&gt;
+  &lt;li&gt;Making production decisions based on the analytics from the data services which is gathered from elastic.&lt;/li&gt;
+  &lt;li&gt;Deployment of a new operational alerting system for the business - Using Pagerduty with API calls for information passing
+ -Development on API’s across multiple vendors&lt;/li&gt;
+  &lt;li&gt;Working with customers to build the best solution for their needs&lt;/li&gt;
+  &lt;li&gt;Development and Understanding on Git Workflows&lt;/li&gt;
+  &lt;li&gt;Languages I am proficient in - Bash, Python, Powershell and Javascript&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Patrick MacCarthy - Update I am a passionate young tech enthusiast that is pushing myself to excel in an already competitive industry. I have a passion for all things cloud and completing projects which re-imagine how we deploy / build / manage different services. I believe that the ‘Infrastructure as code’ model is the future and push myself to automate everything I need to do more than once. Working as a team and bouncing ideas of each other is how I press forward and am also up for those technically challenging conversation.</summary></entry></feed>
